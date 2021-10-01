@@ -1,5 +1,7 @@
 # Домашняя работа 60
 
+## Деплой: https://h60-project.herokuapp.com/
+
 ## Использованные технологии
 
 * Bootstrap 5
