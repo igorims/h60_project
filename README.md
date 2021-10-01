@@ -1,34 +1,7 @@
-# Django Bootstrap Starter Kit
+# Домашняя работа 60
 
-#### Includes Bootstrap 5 and AbstractUser
+## Использованные технологии
 
-## Installation
-
-Use this repository as Django project template:
-
-```
-django-admin startproject --template https://github.com/igorims/django-project-template/archive/master.zip <projectname>
-```
-
-After that make migrations:
-
-```
-python manage.py makemigrations
-```
-
-```
-python manage.py migrate
-```
-
-Run server:
-
-```
-python manage.py runserver
-```
-
-Note:
-Whenever you need to call User, put this at the top of the file (e.g. in views.py, models.py):
-```
-from django.contrib.auth import get_user_model
-User = get_user_model()
-```
+* Bootstrap 5
+* Crispy Forms (bootstrap 5)
+* [Vanilla-tilt.js](https://micku7zu.github.io/vanilla-tilt.js/)
